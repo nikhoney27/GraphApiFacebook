@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GraphApiFacebook</string>
+    <string name="facebook_app_id">1100093410050929</string>
+    <string name="get_api">Show Page</string>
+</resources>
